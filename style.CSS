@@ -1,0 +1,32 @@
+
+.section-1 {
+    background-color: palegoldenrod;
+    display: flex;
+    flex-direction: row;
+    font: optional;
+}
+
+.section-2 {
+    background-color: palegoldenrod;
+    display: flex;
+    flex-direction: row;
+    font: optional;
+}
+
+.section-3 {
+    background-color: palegoldenrod;
+    display: flex;
+    flex-direction: row;
+    font: optional;
+}
+
+.last-section {
+    background-color: palegoldenrod;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+    width: 50%;
+    font: optional;
+}
+
